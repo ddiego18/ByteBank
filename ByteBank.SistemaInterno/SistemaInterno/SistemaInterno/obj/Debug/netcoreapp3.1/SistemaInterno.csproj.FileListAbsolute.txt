@@ -1,0 +1,16 @@
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.exe
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.deps.json
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.runtimeconfig.json
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.dll
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.pdb
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.Modelos.dll
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.Modelos.xml
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.csproj.AssemblyReference.cache
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.csproj.CopyComplete
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.dll
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.pdb
+C:\Users\ddieg\Desktop\ByteBank\ByteBank\ByteBank.SistemaInterno\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.genruntimeconfig.cache
